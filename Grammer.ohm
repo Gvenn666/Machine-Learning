@@ -1,0 +1,4 @@
+Nums {
+   // just a basic integer
+   Number = digit+
+}
